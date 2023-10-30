@@ -46,6 +46,19 @@ We will build a simple frontend app that uses basic HTML & Javascript.
 - To run development web server run `http-server` from the docker shell
 - Test the web app by going to `http://localhost:8080/`
 
+## Backend API Container
+We will create a basic backend container to run our REST API. The FastAPI framework will be used for this.
+
+### Go into the api-service folder 
+- Open a terminal and go to the location where `mushroom-app-v1/api-service`
+
+### Build & Run Container
+- Run `sh docker-shell.sh` or `docker-shell.bat` for windows
+
+
+### Start API Service
+- To run development API service run `uviuvicorn api.service:app --host 0.0.0.0 --port 9000corn_server` from the docker shell
+- Test the API service by going to `http://localhost:9000/`
 
 ---
 
