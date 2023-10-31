@@ -5,7 +5,7 @@ In this tutorial we will setup two containers:
 * frontend-simple
 
 The following container architecture is what we will implement:
-<img src="images/container-architecture.png"  width="400">
+<img src="images/container-architecture.png"  width="800">
 
 ## Prerequisites
 * Have Docker installed
