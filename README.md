@@ -25,10 +25,10 @@ It is important to note that we do not want any secure information in Git. So we
 Your folder structure should look like this:
 ```
    |-mushroom-app-v1
-      |-images
-        |-src
-        |---api-service
-        |---frontend-simple
+     |-images
+     |-src
+       |---api-service
+       |---frontend-simple
    |-secrets
 ```
 
