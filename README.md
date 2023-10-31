@@ -30,6 +30,7 @@ Your folder structure should look like this:
        |---api-service
        |---frontend-simple
    |-secrets
+   |-persistent-folder
 ```
 
 ## Frontend App (Simple) Container
